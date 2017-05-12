@@ -120,8 +120,8 @@ data:
         ref: 662a2c6744cba8c78e0c1f6cb91df6abcf56222e
         buildorder: 1
       kexec-tools:
-        rationale: Automatically generated
-        ref: 00bd88cd5841359d12acaceee30efa9e7048ae2a
+        rationale: Updated for format-security fix
+        ref: cc3fd6fa9b1c268259bc2f6d03a111ebc1363910
       langtable:
         rationale: Automatically generated
         ref: da6f416d901a82cb17534964271937bf2435fe18
@@ -247,6 +247,7 @@ data:
       python-meh:
         rationale: Automatically generated
         ref: 437db681c5af5de9f68cbdc1e35557c37d391d79
+        buildorder: 1
       python-ntplib:
         rationale: Automatically generated
         ref: 79d739e3ca26613f15257f132654e0b00c700288
@@ -282,8 +283,8 @@ data:
         ref: 11216cb7a7aff64146010f2474c04e54c36e07cd
         buildorder: 3
       rtkit:
-        rationale: Automatically generated
-        ref: fc0857173680431af49e718eef48650b10b747a2
+        rationale: Patched to deal with -Werror=format-security
+        ref: 5b201f5cf5d31e1c02e672b154134cc0b25489ef
       rygel:
         rationale: Automatically generated
         ref: 342d22465cbeb84c9d048828dd7f941df9723f1d
