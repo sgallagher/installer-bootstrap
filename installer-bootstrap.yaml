@@ -11,21 +11,27 @@ data:
       anaconda:
         rationale: Automatically generated
         ref: 4345efecdc5b70fbf7ceb884e0364b6356181ded
+        buildorder: 6
       cheese:
         rationale: Automatically generated
         ref: 528cfc6f5d0ff7cbb49cf69c0cc7e34e641f0b2f
+        buildorder: 3
       chrony:
         rationale: Automatically generated
         ref: 2032e72b91f83ce55c367c322a71f2c0862b947c
+        buildorder: 1
       clutter:
         rationale: Automatically generated
         ref: 1f4e7e89284448601a3f3e517fa4f6aa0fbd359c
+        buildorder: 1
       clutter-gst3:
         rationale: Automatically generated
         ref: 1d186b6d2f0fad29ce90cf0d80306b11894522cd
+        buildorder: 2
       clutter-gtk:
         rationale: Automatically generated
         ref: 5aa49490c7a9fcc567466b21c03e8c9ba508c182
+        buildorder: 2
       cogl:
         rationale: Automatically generated
         ref: 41d2b2234675fa78eb5b2cc63f3d4e49a9a0aab8
@@ -41,12 +47,15 @@ data:
       control-center:
         rationale: Automatically generated
         ref: 3115f408502c77e92b9ca286b57a86cea24331df
+        buildorder: 4
       createrepo_c:
         rationale: Automatically generated
         ref: 6a445f4aa70d5b34820425f6502335efff3c3ff0
+        buildorder: 1
       cups-pk-helper:
         rationale: Automatically generated
         ref: a43b8589acd5b31db4130a54f81b81aa5f6ce3d4
+        buildorder: 1
       drpm:
         rationale: Automatically generated
         ref: d88f028368d8113cf9abc5abbb5395294543dfe7
@@ -56,6 +65,7 @@ data:
       fcoe-utils:
         rationale: Automatically generated
         ref: 072cb4d2459d1f2aab821048432cdaaf7820a379
+        buildorder: 1
       fros:
         rationale: Automatically generated
         ref: ea49984be23bceca178ad4644a51dd0c0b0585cf
@@ -74,24 +84,28 @@ data:
       gnome-settings-daemon:
         rationale: Automatically generated
         ref: 3ef120e2088b009152a0c3d6b35f15d6c4ff2846
+        buildorder: 2
       gnome-themes-standard:
         rationale: Automatically generated
         ref: 8b3c55486247e96e035ffc5e71ab32f0613fba74
       grilo:
         rationale: Automatically generated
         ref: 73d84fdbe904f515c12fe539693f2c270f428285
+        buildorder: 1
       gssdp:
         rationale: Automatically generated
         ref: a1e6d8edbf785274f088e783d52daac2bf9fefe1
       gupnp:
         rationale: Automatically generated
         ref: 2483a115a2918a6d8916383c31890a3ec448c857
+        buildorder: 1
       gupnp-av:
         rationale: Automatically generated
         ref: 6d2f3bb39e6f798c9763e67431ac76d36972fef4
       gupnp-dlna:
         rationale: Automatically generated
         ref: 93b82ecb41ae15767698f3e9f7d779a059af8e1f
+        buildorder: 2
       hfsplus-tools:
         rationale: Automatically generated
         ref: b7d09eb9769bc56a533e0f758a673e616b3f348b
@@ -104,6 +118,7 @@ data:
       kbd:
         rationale: Automatically generated
         ref: 662a2c6744cba8c78e0c1f6cb91df6abcf56222e
+        buildorder: 1
       kexec-tools:
         rationale: Automatically generated
         ref: 00bd88cd5841359d12acaceee30efa9e7048ae2a
@@ -119,6 +134,7 @@ data:
       libgnomekbd:
         rationale: Automatically generated
         ref: 1c37f6308fb1dc45f1d53566f5ca3ca0ec670045
+        buildorder: 1
       libgrss:
         rationale: Automatically generated
         ref: dd48fa857d88befb98fd1f82a231a57847f3810b
@@ -131,6 +147,7 @@ data:
       libgweather:
         rationale: Automatically generated
         ref: 65dcd6c24883262faf569bb7093cfd053a3b1501
+        buildorder: 1
       libgxps:
         rationale: Automatically generated
         ref: f3fdfbc97a8cdfe8dcd1dc49de4a75107d2bc51a
@@ -140,9 +157,11 @@ data:
       libosinfo:
         rationale: Automatically generated
         ref: 79c88a4f63ada8c4052d445d195de9e7889a479e
+        buildorder: 2
       libquvi:
         rationale: Automatically generated
         ref: 1e69b1c2dc5cd7c4f0649a007fd3b11ebb0f7026
+        buildorder: 2
       libquvi-scripts:
         rationale: Automatically generated
         ref: 818b25e299f61115d032363624e61c522f064c6b
@@ -161,21 +180,26 @@ data:
       lua-expat:
         rationale: Automatically generated
         ref: ffdb3120cbc0d832e72a2e6e835993d0db06d894
+        buildorder: 1
       lua-filesystem:
         rationale: Automatically generated
         ref: dd204e5f1b3b30a32d95ac168acc7e0134753da5
+        buildorder: 1
       lua-json:
         rationale: Automatically generated
         ref: 886c21b79e7f9fe96f0932dd3cd22b41674c8687
+        buildorder: 2
       lua-lpeg:
         rationale: Automatically generated
         ref: f01f748c5df539f3462e2ea9236fe7a2be65c645
       lua-socket:
         rationale: Automatically generated
         ref: a02d1d780e8106144fa3e62ff7efa207cadae6f1
+        buildorder: 1
       metacity:
         rationale: Automatically generated
         ref: 126a684c8e69d21ba4629a2ec6403c2440cfb4f0
+        buildorder: 5
       mobile-broadband-provider-info:
         rationale: Automatically generated
         ref: ada467f5f61c15ba6e2254e5c7150e2532b949e5
@@ -185,6 +209,7 @@ data:
       osinfo-db:
         rationale: Automatically generated
         ref: cfbadc4a65d29965969c45b9c8aa5722fc73445a
+        buildorder: 1
       osinfo-db-tools:
         rationale: Automatically generated
         ref: 60aac5506402552da9817e7753694e11cf864a0f
@@ -197,18 +222,22 @@ data:
       pykickstart:
         rationale: Automatically generated
         ref: 5b757b884194056f4ed016df6a0937ae2a35585a
+        buildorder: 1
       pylint:
         rationale: Automatically generated
         ref: 63ce0ecf3656b593acf35aa0a6a659fdceef4e4b
+        buildorder: 2
       pyparted:
         rationale: Automatically generated
         ref: 6741677a7ac3774043ee64f062801bd64609cc95
       python-astroid:
         rationale: Automatically generated
         ref: 1fd98274d567e04b8a0c3cf0a88d652fa1eee3ad
+        buildorder: 1
       python-blivet:
         rationale: Automatically generated
         ref: fbe20bb697a4365a2ce8c85ce588f48857daa6b5
+        buildorder: 4
       python-isort:
         rationale: Automatically generated
         ref: be39462667c8f857638d36c33f20c50fe37849bc
@@ -251,12 +280,14 @@ data:
       python3-pocketlint:
         rationale: Automatically generated
         ref: 11216cb7a7aff64146010f2474c04e54c36e07cd
+        buildorder: 3
       rtkit:
         rationale: Automatically generated
         ref: fc0857173680431af49e718eef48650b10b747a2
       rygel:
         rationale: Automatically generated
         ref: 342d22465cbeb84c9d048828dd7f941df9723f1d
+        buildorder: 5
       switcheroo-control:
         rationale: Automatically generated
         ref: 32f7674668acb8d50679a0def7b1256969e69aab
@@ -272,15 +303,18 @@ data:
       totem-pl-parser:
         rationale: Automatically generated
         ref: 7eb409ae497ed3bf9f467ef36d91a2272d63d44e
+        buildorder: 3
       tracker:
         rationale: Automatically generated
         ref: 30647b6a4739716a1930eba4211c97fe4dee65b8
+        buildorder: 4
       usermode:
         rationale: Automatically generated
         ref: bd4ba70e00b0ef0068ca57e0fafaa869252ae446
       vino:
         rationale: Automatically generated
         ref: ec250162f5ca8d1c78243a89822aa1f8bfdc3c2c
+        buildorder: 1
       xorg-x11-drv-wacom:
         rationale: Automatically generated
         ref: 9e4f9437641b3f4e7798077652b65f61fc90cb28
