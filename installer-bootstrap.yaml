@@ -1,0 +1,310 @@
+data:
+  api: {}
+  components:
+    rpms:
+      abattis-cantarell-fonts:
+        rationale: Automatically generated
+        ref: 3ab582f67829442bc6f7bc350a94253193c67cad
+      accountsservice:
+        rationale: Automatically generated
+        ref: 3c23b219d2a5bcee489edc8695f4d889d193e283
+      anaconda:
+        rationale: Automatically generated
+        ref: 4345efecdc5b70fbf7ceb884e0364b6356181ded
+      cheese:
+        rationale: Automatically generated
+        ref: 528cfc6f5d0ff7cbb49cf69c0cc7e34e641f0b2f
+      chrony:
+        rationale: Automatically generated
+        ref: 2032e72b91f83ce55c367c322a71f2c0862b947c
+      clutter:
+        rationale: Automatically generated
+        ref: 1f4e7e89284448601a3f3e517fa4f6aa0fbd359c
+      clutter-gst3:
+        rationale: Automatically generated
+        ref: 1d186b6d2f0fad29ce90cf0d80306b11894522cd
+      clutter-gtk:
+        rationale: Automatically generated
+        ref: 5aa49490c7a9fcc567466b21c03e8c9ba508c182
+      cogl:
+        rationale: Automatically generated
+        ref: 41d2b2234675fa78eb5b2cc63f3d4e49a9a0aab8
+      colord-gtk:
+        rationale: Automatically generated
+        ref: b7d5f6fa3b661eca8d22aaef8699e492df47f7e8
+      compat-lua:
+        rationale: Automatically generated
+        ref: e385b6ce4324d8675650b65451a13bf9908aac1e
+      console-setup:
+        rationale: Automatically generated
+        ref: 6989f0854aab5b7b35efd422e2c1407d87d7e4d7
+      control-center:
+        rationale: Automatically generated
+        ref: 3115f408502c77e92b9ca286b57a86cea24331df
+      createrepo_c:
+        rationale: Automatically generated
+        ref: 6a445f4aa70d5b34820425f6502335efff3c3ff0
+      cups-pk-helper:
+        rationale: Automatically generated
+        ref: a43b8589acd5b31db4130a54f81b81aa5f6ce3d4
+      drpm:
+        rationale: Automatically generated
+        ref: d88f028368d8113cf9abc5abbb5395294543dfe7
+      ethtool:
+        rationale: Automatically generated
+        ref: f33686fcb0eec063e0558d4b52dcb377a2008ab7
+      fcoe-utils:
+        rationale: Automatically generated
+        ref: 072cb4d2459d1f2aab821048432cdaaf7820a379
+      fros:
+        rationale: Automatically generated
+        ref: ea49984be23bceca178ad4644a51dd0c0b0585cf
+      geocode-glib:
+        rationale: Automatically generated
+        ref: a50c2052767a0044c06e04d29133d4aa754bede1
+      gmime:
+        rationale: Automatically generated
+        ref: aca48f7389946b07f888faf1f72b98fe4bb90094
+      gnome-bluetooth:
+        rationale: Automatically generated
+        ref: bc973a4fae6227d3191054356ce7068909966f77
+      gnome-desktop3:
+        rationale: Automatically generated
+        ref: 31eb36f31e3caa661b4bd096489d325c812ebedc
+      gnome-settings-daemon:
+        rationale: Automatically generated
+        ref: 3ef120e2088b009152a0c3d6b35f15d6c4ff2846
+      gnome-themes-standard:
+        rationale: Automatically generated
+        ref: 8b3c55486247e96e035ffc5e71ab32f0613fba74
+      grilo:
+        rationale: Automatically generated
+        ref: 73d84fdbe904f515c12fe539693f2c270f428285
+      gssdp:
+        rationale: Automatically generated
+        ref: a1e6d8edbf785274f088e783d52daac2bf9fefe1
+      gupnp:
+        rationale: Automatically generated
+        ref: 2483a115a2918a6d8916383c31890a3ec448c857
+      gupnp-av:
+        rationale: Automatically generated
+        ref: 6d2f3bb39e6f798c9763e67431ac76d36972fef4
+      gupnp-dlna:
+        rationale: Automatically generated
+        ref: 93b82ecb41ae15767698f3e9f7d779a059af8e1f
+      hfsplus-tools:
+        rationale: Automatically generated
+        ref: b7d09eb9769bc56a533e0f758a673e616b3f348b
+      iio-sensor-proxy:
+        rationale: Automatically generated
+        ref: 0b49a8ef87072ca178956ea99c11d8a3e5dc5d5a
+      isomd5sum:
+        rationale: Automatically generated
+        ref: d4a2bfeeba51a3aa8d0f4bb96c2a91446ad7c65d
+      kbd:
+        rationale: Automatically generated
+        ref: 662a2c6744cba8c78e0c1f6cb91df6abcf56222e
+      kexec-tools:
+        rationale: Automatically generated
+        ref: 00bd88cd5841359d12acaceee30efa9e7048ae2a
+      langtable:
+        rationale: Automatically generated
+        ref: da6f416d901a82cb17534964271937bf2435fe18
+      libcue:
+        rationale: Automatically generated
+        ref: 2342aa8b68aa7be083435b811e13e9a65740cede
+      libgee:
+        rationale: Automatically generated
+        ref: b32d722e99ec341f4891b156b0c6b34707b295b4
+      libgnomekbd:
+        rationale: Automatically generated
+        ref: 1c37f6308fb1dc45f1d53566f5ca3ca0ec670045
+      libgrss:
+        rationale: Automatically generated
+        ref: dd48fa857d88befb98fd1f82a231a57847f3810b
+      libgsf:
+        rationale: Automatically generated
+        ref: 2ff5bf52ad2ac9ee67335bb89bf473bced16e2d4
+      libgtop2:
+        rationale: Automatically generated
+        ref: 72c4e15e0063829db05f0a15d3b1c5a5c721caab
+      libgweather:
+        rationale: Automatically generated
+        ref: 65dcd6c24883262faf569bb7093cfd053a3b1501
+      libgxps:
+        rationale: Automatically generated
+        ref: f3fdfbc97a8cdfe8dcd1dc49de4a75107d2bc51a
+      libmediaart:
+        rationale: Automatically generated
+        ref: 33f617954db0ee14c086b492316f81c403643aa3
+      libosinfo:
+        rationale: Automatically generated
+        ref: 79c88a4f63ada8c4052d445d195de9e7889a479e
+      libquvi:
+        rationale: Automatically generated
+        ref: 1e69b1c2dc5cd7c4f0649a007fd3b11ebb0f7026
+      libquvi-scripts:
+        rationale: Automatically generated
+        ref: 818b25e299f61115d032363624e61c522f064c6b
+      libtimezonemap:
+        rationale: Automatically generated
+        ref: 68b025276239d1a979faf3d478275bbbaa6e87fa
+      libxklavier:
+        rationale: Automatically generated
+        ref: 01a735835021e3f55ca29237bb3ad0bac547f14e
+      lldpad:
+        rationale: Automatically generated
+        ref: b09c517b525800047d520c56a8ee9dc27cfd9715
+      lsof:
+        rationale: Automatically generated
+        ref: 1cff8ff2e4bca66433aa3839bff41ee8330d55e2
+      lua-expat:
+        rationale: Automatically generated
+        ref: ffdb3120cbc0d832e72a2e6e835993d0db06d894
+      lua-filesystem:
+        rationale: Automatically generated
+        ref: dd204e5f1b3b30a32d95ac168acc7e0134753da5
+      lua-json:
+        rationale: Automatically generated
+        ref: 886c21b79e7f9fe96f0932dd3cd22b41674c8687
+      lua-lpeg:
+        rationale: Automatically generated
+        ref: f01f748c5df539f3462e2ea9236fe7a2be65c645
+      lua-socket:
+        rationale: Automatically generated
+        ref: a02d1d780e8106144fa3e62ff7efa207cadae6f1
+      metacity:
+        rationale: Automatically generated
+        ref: 126a684c8e69d21ba4629a2ec6403c2440cfb4f0
+      mobile-broadband-provider-info:
+        rationale: Automatically generated
+        ref: ada467f5f61c15ba6e2254e5c7150e2532b949e5
+      network-manager-applet:
+        rationale: Automatically generated
+        ref: 0693b697cf67ad7e6dd071c7d97227f634d51481
+      osinfo-db:
+        rationale: Automatically generated
+        ref: cfbadc4a65d29965969c45b9c8aa5722fc73445a
+      osinfo-db-tools:
+        rationale: Automatically generated
+        ref: 60aac5506402552da9817e7753694e11cf864a0f
+      polkit-gnome:
+        rationale: Automatically generated
+        ref: 00128341b10fb8754f22d1ae69764c6ae3038bae
+      pps-tools:
+        rationale: Automatically generated
+        ref: efe5ccdb21bb5d9ccdcccef0885fe1c0a6cf3699
+      pykickstart:
+        rationale: Automatically generated
+        ref: 5b757b884194056f4ed016df6a0937ae2a35585a
+      pylint:
+        rationale: Automatically generated
+        ref: 63ce0ecf3656b593acf35aa0a6a659fdceef4e4b
+      pyparted:
+        rationale: Automatically generated
+        ref: 6741677a7ac3774043ee64f062801bd64609cc95
+      python-astroid:
+        rationale: Automatically generated
+        ref: 1fd98274d567e04b8a0c3cf0a88d652fa1eee3ad
+      python-blivet:
+        rationale: Automatically generated
+        ref: fbe20bb697a4365a2ce8c85ce588f48857daa6b5
+      python-isort:
+        rationale: Automatically generated
+        ref: be39462667c8f857638d36c33f20c50fe37849bc
+      python-lazy-object-proxy:
+        rationale: Automatically generated
+        ref: ca1fbc0de6944586ab1e8ca1ec9f461308ad7a8a
+      python-meh:
+        rationale: Automatically generated
+        ref: 437db681c5af5de9f68cbdc1e35557c37d391d79
+      python-ntplib:
+        rationale: Automatically generated
+        ref: 79d739e3ca26613f15257f132654e0b00c700288
+      python-ordered-set:
+        rationale: Automatically generated
+        ref: 5cfcac877ae90c5801740da0ee20ab22066960a7
+      python-pid:
+        rationale: Automatically generated
+        ref: 13adda6be6845d5081979a767faab1f042291f72
+      python-polib:
+        rationale: Automatically generated
+        ref: e7d1a79fcf0e1d2e997284c5f745d5cc1b730f91
+      python-requests-file:
+        rationale: Automatically generated
+        ref: cd3543eceb80870578cb38eb497c6e9de243cf05
+      python-requests-ftp:
+        rationale: Automatically generated
+        ref: 6536642315f0e64daf6c8d166da60b205493c7bd
+      python-slip:
+        rationale: Automatically generated
+        ref: 7dd00c2d1435109a7e51509797e590b38697c0ca
+      python-typeshed:
+        rationale: Automatically generated
+        ref: 9b49c3539e31f5ee6c7211f4cb72024cd65da95b
+      python-wrapt:
+        rationale: Automatically generated
+        ref: 1538f79020fb4d55d79c804f85ff5460f48930f1
+      python3-mypy:
+        rationale: Automatically generated
+        ref: 9a1294b206b01f986fc7218e1166c22ce5d0a607
+      python3-pocketlint:
+        rationale: Automatically generated
+        ref: 11216cb7a7aff64146010f2474c04e54c36e07cd
+      rtkit:
+        rationale: Automatically generated
+        ref: fc0857173680431af49e718eef48650b10b747a2
+      rygel:
+        rationale: Automatically generated
+        ref: 342d22465cbeb84c9d048828dd7f941df9723f1d
+      switcheroo-control:
+        rationale: Automatically generated
+        ref: 32f7674668acb8d50679a0def7b1256969e69aab
+      telepathy-filesystem:
+        rationale: Automatically generated
+        ref: acc9beedde508bb05cd81086202069e5c3a6c586
+      telepathy-glib:
+        rationale: Automatically generated
+        ref: 1580781b1eb564d2b5392943ae00147d6624597d
+      thunderbird:
+        rationale: Automatically generated
+        ref: e06f51d27b6ff56b027bc333088c7326f6ddb7aa
+      totem-pl-parser:
+        rationale: Automatically generated
+        ref: 7eb409ae497ed3bf9f467ef36d91a2272d63d44e
+      tracker:
+        rationale: Automatically generated
+        ref: 30647b6a4739716a1930eba4211c97fe4dee65b8
+      usermode:
+        rationale: Automatically generated
+        ref: bd4ba70e00b0ef0068ca57e0fafaa869252ae446
+      vino:
+        rationale: Automatically generated
+        ref: ec250162f5ca8d1c78243a89822aa1f8bfdc3c2c
+      xorg-x11-drv-wacom:
+        rationale: Automatically generated
+        ref: 9e4f9437641b3f4e7798077652b65f61fc90cb28
+      zenity:
+        rationale: Automatically generated
+        ref: 0f87b62a362391358a86b12c01559a56fcafc37d
+  dependencies:
+    buildrequires:
+      bootstrap: master
+    requires:
+      base-runtime: master
+      bootstrap: master
+  description: Bootstrap module for installer
+  filter: {}
+  license:
+    module:
+    - MIT
+  name: installer-bootstrap
+  references:
+    community: https://fedoraproject.org/wiki/BaseRuntime
+    documentation: https://github.com/fedora-modularity/base-runtime
+    tracker: https://github.com/fedora-modularity/base-runtime/issues
+  stream: ''
+  summary: ''
+  version: 0
+document: modulemd
+version: 1
