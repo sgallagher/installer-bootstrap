@@ -91,7 +91,7 @@ data:
       grilo:
         rationale: Automatically generated
         ref: 73d84fdbe904f515c12fe539693f2c270f428285
-        buildorder: 1
+        buildorder: 4
       gssdp:
         rationale: Automatically generated
         ref: a1e6d8edbf785274f088e783d52daac2bf9fefe1
@@ -220,8 +220,8 @@ data:
         rationale: Automatically generated
         ref: efe5ccdb21bb5d9ccdcccef0885fe1c0a6cf3699
       pykickstart:
-        rationale: Automatically generated
-        ref: 5b757b884194056f4ed016df6a0937ae2a35585a
+        rationale: Address issues with coverage tests
+        ref: b089140d17ceb9b5d972c0c8b21527bece6e1321
         buildorder: 1
       pylint:
         rationale: Automatically generated
