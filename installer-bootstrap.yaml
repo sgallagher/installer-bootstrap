@@ -182,8 +182,8 @@ data:
         ref: ffdb3120cbc0d832e72a2e6e835993d0db06d894
         buildorder: 1
       lua-filesystem:
-        rationale: Automatically generated
-        ref: dd204e5f1b3b30a32d95ac168acc7e0134753da5
+        rationale: Handle lua not in the default buildroot
+        ref: 8a58003ec5a6b525cef87434aef55848e5825c5c
         buildorder: 1
       lua-json:
         rationale: Automatically generated
