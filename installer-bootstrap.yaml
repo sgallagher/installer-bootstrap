@@ -161,7 +161,7 @@ data:
       libquvi:
         rationale: Automatically generated
         ref: 1e69b1c2dc5cd7c4f0649a007fd3b11ebb0f7026
-        buildorder: 2
+        buildorder: 3
       libquvi-scripts:
         rationale: Automatically generated
         ref: 818b25e299f61115d032363624e61c522f064c6b
