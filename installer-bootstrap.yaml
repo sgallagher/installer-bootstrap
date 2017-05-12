@@ -299,8 +299,8 @@ data:
         rationale: Automatically generated
         ref: 1580781b1eb564d2b5392943ae00147d6624597d
       thunderbird:
-        rationale: Automatically generated
-        ref: e06f51d27b6ff56b027bc333088c7326f6ddb7aa
+        rationale: Pull in latest and hope the build is fixed
+        ref: 72315ab0e0815886243f97d67a9516dff909c008
       totem-pl-parser:
         rationale: Automatically generated
         ref: 7eb409ae497ed3bf9f467ef36d91a2272d63d44e
@@ -310,8 +310,8 @@ data:
         ref: 30647b6a4739716a1930eba4211c97fe4dee65b8
         buildorder: 4
       usermode:
-        rationale: Automatically generated
-        ref: bd4ba70e00b0ef0068ca57e0fafaa869252ae446
+        rationale: Update to fix FTBFS
+        ref: 124aec2cb3cc9910f5abbb1560d49157488136af
       vino:
         rationale: Automatically generated
         ref: ec250162f5ca8d1c78243a89822aa1f8bfdc3c2c
