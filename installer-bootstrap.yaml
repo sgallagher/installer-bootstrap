@@ -322,6 +322,7 @@ data:
   dependencies:
     buildrequires:
       bootstrap: master
+      base-runtime: master
     requires:
       base-runtime: master
       bootstrap: master
