@@ -17,8 +17,8 @@ data:
         ref: 528cfc6f5d0ff7cbb49cf69c0cc7e34e641f0b2f
         buildorder: 3
       chrony:
-        rationale: Automatically generated
-        ref: 2032e72b91f83ce55c367c322a71f2c0862b947c
+        rationale: Fix tests
+        ref: e1fbfc8eee90a9e7c33eb12133eae039179154d1
         buildorder: 1
       clutter:
         rationale: Automatically generated
