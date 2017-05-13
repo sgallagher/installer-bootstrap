@@ -11,7 +11,7 @@ data:
       anaconda:
         rationale: Automatically generated
         ref: 4345efecdc5b70fbf7ceb884e0364b6356181ded
-        buildorder: 7
+        buildorder: 8
       cheese:
         rationale: Automatically generated
         ref: 528cfc6f5d0ff7cbb49cf69c0cc7e34e641f0b2f
@@ -47,7 +47,7 @@ data:
       control-center:
         rationale: Automatically generated
         ref: 3115f408502c77e92b9ca286b57a86cea24331df
-        buildorder: 4
+        buildorder: 6
       createrepo_c:
         rationale: Automatically generated
         ref: 6a445f4aa70d5b34820425f6502335efff3c3ff0
@@ -91,7 +91,7 @@ data:
       grilo:
         rationale: Automatically generated
         ref: 73d84fdbe904f515c12fe539693f2c270f428285
-        buildorder: 4
+        buildorder: 5
       gssdp:
         rationale: Automatically generated
         ref: a1e6d8edbf785274f088e783d52daac2bf9fefe1
@@ -199,7 +199,7 @@ data:
       metacity:
         rationale: Automatically generated
         ref: 126a684c8e69d21ba4629a2ec6403c2440cfb4f0
-        buildorder: 5
+        buildorder: 7
       mobile-broadband-provider-info:
         rationale: Automatically generated
         ref: ada467f5f61c15ba6e2254e5c7150e2532b949e5
