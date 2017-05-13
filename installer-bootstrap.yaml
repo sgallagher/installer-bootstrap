@@ -301,7 +301,7 @@ data:
       totem-pl-parser:
         rationale: Automatically generated
         ref: 7eb409ae497ed3bf9f467ef36d91a2272d63d44e
-        buildorder: 3
+        buildorder: 4
       tracker:
         rationale: Drop thunderbird buildrequires
         ref: 11102153c92a1006d674ae47d8ad1675b511a96a
