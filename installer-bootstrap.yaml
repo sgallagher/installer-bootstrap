@@ -11,7 +11,7 @@ data:
       anaconda:
         rationale: Automatically generated
         ref: 4345efecdc5b70fbf7ceb884e0364b6356181ded
-        buildorder: 6
+        buildorder: 7
       cheese:
         rationale: Automatically generated
         ref: 528cfc6f5d0ff7cbb49cf69c0cc7e34e641f0b2f
@@ -288,7 +288,7 @@ data:
       rygel:
         rationale: Automatically generated
         ref: 342d22465cbeb84c9d048828dd7f941df9723f1d
-        buildorder: 5
+        buildorder: 6
       switcheroo-control:
         rationale: Automatically generated
         ref: 32f7674668acb8d50679a0def7b1256969e69aab
@@ -305,7 +305,7 @@ data:
       tracker:
         rationale: Drop thunderbird buildrequires
         ref: 11102153c92a1006d674ae47d8ad1675b511a96a
-        buildorder: 4
+        buildorder: 5
       usermode:
         rationale: Update to fix FTBFS
         ref: 124aec2cb3cc9910f5abbb1560d49157488136af
